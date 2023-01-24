@@ -6,6 +6,7 @@
 I do deep analysis to find income exceeds $50K/yr based on census data. Also known as "Adult" dataset.
 
 Data from: http://mlr.cs.umass.edu/ml/datasets/Census+Income
+
 Also from: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
 
