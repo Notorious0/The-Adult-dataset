@@ -1,5 +1,5 @@
 # The-Adult-dataset
-# Analysis - I do deep analysis and EDA on Adult dataset by using Pandas,NumPy,Matplotlib,Seaborn etc on Jupyter Notebook
+ Analysis - I do deep analysis and EDA on Adult dataset by using Pandas,NumPy,Matplotlib,Seaborn etc on Jupyter Notebook
 
 ## Abstract
 
@@ -19,5 +19,5 @@ Analysis was done in notebooks.
 
 ## Software
 
-All the analysis was done using python 3.6 and the usefull libraries .
+All the analysis was done by using python 3.6 and the usefull libraries .
 
